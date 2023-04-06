@@ -1,0 +1,33 @@
+{
+  "author": {
+    "email": "in@ega.or.th",
+    "name": "เจ้าหน้าที่ฝ่าย IN (026126060)"
+  },
+  "description": "ข้อมูลผู้บาดเจ็บและเสียชีวิตในเทศกาลปีใหม่ประจำปี 2551 - 2557 จำแนกตามโรงพยาบาลทั่วประเทศ",
+  "keywords": [
+    "อุบัติเหตุช่วงปีใหม่"
+  ],
+  "license": {
+    "title": "DGA Open Government License",
+    "type": "ogl"
+  },
+  "name": "item_7d61f508-d2e1-4f0c-8408-dfde29f111f5",
+  "resources": [
+    {
+      "description": "ผู้บาดเจ็บและเสียชีวิต ในช่วงเทศกาล ปี 51-58_CutName_NewYear_Edit",
+      "format": "XLSX",
+      "hash": "d51afdcd26dbd74294f4815d078637ef",
+      "name": "phuubaadecchbaelaesiiychiiwit-ainchwngethskaal-pii-51-58-cutname-newyear-edit",
+      "path": "phuubaadecchbaelaesiiychiiwit-ainchwngethskaal-pii-51-58-cutname-newyear-edit.xlsx",
+      "sources": [
+        {
+          "path": "https://opendata.data.go.th/dataset/d46af694-d117-4253-b426-1203a6213d30/resource/78d4f56e-8f2f-4bb8-90c8-93d945237dff/download/___51-58_cutname_newyear_edit.xlsx",
+          "title": "ผู้บาดเจ็บและเสียชีวิต ในช่วงเทศกาล ปี 51-58_CutName_NewYear_Edit"
+        }
+      ],
+      "title": "ผู้บาดเจ็บและเสียชีวิต ในช่วงเทศกาล ปี 51-58_CutName_NewYear_Edit"
+    }
+  ],
+  "title": "ผู้บาดเจ็บและเสียชีวิต ในช่วงเทศกาล ปี 51-58_CutName_NewYear_Edit",
+  "version": "1.0"
+}
