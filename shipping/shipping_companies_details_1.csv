@@ -1,0 +1,9 @@
+source_country,destination_country,shipment_mode,cut_off_time,tat,processing_days,pick_up_point,drop_off_point,min_cs,max_cs,shipping_company,shipment_charges
+GB,IN,Ocean,12PM IST,"Before CO - T+0
+After CO - T+1",Mon-Fri,A, Y ,  100 ,"  2,500,000 ",SC1,0.9
+GB,IN,Air,24/7,Real-time,24/7,A, Y ,  100 ,"  200,000 ",SC2,1.05
+GB,IN,Air,24/7,Within 15 mins,24/7,A, Y ,  100 ,"  200,000 ",SC3,0.75
+GB,BD,Ocean,10 - 2 and 3 - 6 BST,"Before CO - T+0
+After CO - T+1",Sun-Fri,A, X ,  50 ,"  4,000,000 ",SC1,1.125
+GB,BD,Ocean,10 - 2 and 3 - 6 BST,"Before CO - T+0
+After CO - T+1",Sun-Fri,A, X ,  50 ,"  4,000,000 ",SC2,0.5625
