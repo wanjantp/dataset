@@ -890,3 +890,28 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 889,0,3,"Johnston, Miss. Catherine Helen ""Carrie""",female,,1,2,W./C. 6607,23.45,,S
 890,1,1,"Behr, Mr. Karl Howell",male,26,0,0,111369,30,C148,C
 891,0,3,"Dooley, Mr. Patrick",male,32,0,0,370376,7.75,,Q
+92,0,3,"Andreasson, Mr. Paul Edvin",male,20,0,0,347466,7.8542,,S
+93,0,1,"Chaffee, Mr. Herbert Fuller",male,46,1,0,W.E.P. 5734,61.175,E31,S
+94,0,3,"Dean, Mr. Bertram Frank",male,26,1,2,C.A. 2315,20.575,,S
+95,0,3,"Coxon, Mr. Daniel",male,59,0,0,364500,7.25,,S
+96,0,3,"Shorney, Mr. Charles Joseph",male,,0,0,374910,8.05,,S
+97,0,1,"Goldschmidt, Mr. George B",male,71,0,0,PC 17754,34.6542,A5,C
+98,1,1,"Greenfield, Mr. William Bertram",male,23,0,1,PC 17759,63.3583,D10 D12,C
+99,1,2,"Doling, Mrs. John T (Ada Julia Bone)",female,34,0,1,231919,23,,S
+100,0,2,"Kantor, Mr. Sinai",male,34,1,0,244367,26,,S
+101,0,3,"Petranec, Miss. Matilda",female,28,0,0,349245,7.8958,,S
+102,0,3,"Petroff, Mr. Pastcho (""Pentcho"")",male,,0,0,349215,7.8958,,S
+103,0,1,"White, Mr. Richard Frasar",male,21,0,1,35281,77.2875,D26,S
+104,0,3,"Johansson, Mr. Gustaf Joel",male,33,0,0,7540,8.6542,,S
+105,0,3,"Gustafsson, Mr. Anders Vilhelm",male,37,2,0,3101276,7.925,,S
+106,0,3,"Mionoff, Mr. Stoytcho",male,28,0,0,349207,7.8958,,S
+107,1,3,"Salkjelsvik, Miss. Anna Kristine",female,21,0,0,343120,7.65,,S
+108,1,3,"Moss, Mr. Albert Johan",male,,0,0,312991,7.775,,S
+109,0,3,"Rekic, Mr. Tido",male,38,0,0,349249,7.8958,,S
+110,1,3,"Moran, Miss. Bertha",female,,1,0,371110,24.15,,Q
+111,0,1,"Porter, Mr. Walter Chamberlain",male,47,0,0,110465,52,C110,S
+112,0,3,"Zabour, Miss. Hileni",female,14.5,1,0,2665,14.4542,,C
+113,0,3,"Barton, Mr. David John",male,22,0,0,324669,8.05,,S
+114,0,3,"Jussila, Miss. Katriina",female,20,1,0,4136,9.825,,S
+115,0,3,"Attalah, Miss. Malake",female,17,0,0,2627,14.4583,,C
+116,0,3,"Pekoniemi, Mr. Edvard",male,21,0,0,STON/O 2. 3101294,7.925,,S
